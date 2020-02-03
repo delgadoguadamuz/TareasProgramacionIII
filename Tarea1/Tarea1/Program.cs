@@ -13,7 +13,7 @@ namespace Tarea1
         {
             Reproductores reproductores = new Reproductores();
 
-            reproductores.Play();
+            reproductores.Play1();
             Console.ReadKey();
 
         }
