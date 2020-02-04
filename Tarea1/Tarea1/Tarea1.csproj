@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interface\CRUD.cs" />
     <Compile Include="Interface\DVD.cs" />
+    <Compile Include="Interface\ICRUD.cs" />
     <Compile Include="Interface\Netflix.cs" />
-    <Compile Include="Interface\Reproductores.cs" />
+    <Compile Include="Interface\IReproductores.cs" />
     <Compile Include="Interface\VHS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
