@@ -36,8 +36,11 @@ namespace Tarea1
             ListaReproductores.buscar(2).stop();
 
             ListaReproductores.eliminar(0);
+
             ListaReproductores.eliminar(0);
+
             ListaReproductores.eliminar(0);
+
 
             IReproductores DVD1 = new DVD(0, "DVD2");
             IReproductores VHS1 = new VHS(1, "VHS2");
